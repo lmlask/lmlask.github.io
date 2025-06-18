@@ -1,9 +1,20 @@
-Ham dashboard website. <br>
+Ham Dashboards
 
-[<kbd> <br> Ham Dashboard v1 (Fast PCs) <br> </kbd>][[Link](https://lmlask.github.io/v1/hamdash.html)]
+<br>
 
-[<kbd> <br> Ham Dashboard v2 (Medium PCs) <br> </kbd>][[Link](https://lmlask.github.io/v2/hamdash.html)]
+[<kbd> <br> Dashboard v1 (Fast PCs) <br> </kbd>][Link1]
+[<kbd> <br> Dashboard v2 (Medium PCs PCs) <br> </kbd>][Link2]
+[<kbd> <br> Dashboard v3 (Slow PCs) <br> </kbd>][Link3]
+[<kbd> <br> Dashboard v4 (Very slow PCs) <br> </kbd>][Link4]
+[<kbd> <br> Dashboard v5 (Servers/RPi PCs) <br> </kbd>][Link5]
 
-[<kbd> <br> Ham Dashboard v3 (Slow PCs) <br> </kbd>][[Link](https://lmlask.github.io/v3/hamdash.html)]
+<br>
 
-[<kbd> <br> Ham Dashboard v4 (Very Slow PCs) <br> </kbd>][[Link](https://lmlask.github.io/v4/hamdash.html)]
+
+<!---------------------------------------------------------------------------->
+
+[Link1]: https://lmlask.github.io/v1/hamdash.html
+[Link2]: https://lmlask.github.io/v2/hamdash.html
+[Link3]: https://lmlask.github.io/v3/hamdash.html
+[Link4]: https://lmlask.github.io/v4/hamdash.html
+[Link5]: https://lmlask.github.io/v5/hamdash.html
