@@ -1,0 +1,82 @@
+SWX OVERVIEW
+https://services.swpc.noaa.gov/images/swx-overview-small.gif
+
+SUVI (sun)
+MAP: https://services.swpc.noaa.gov/images/animations/suvi/secondary/map/latest.png
+094: https://services.swpc.noaa.gov/images/animations/suvi/primary/094/latest.png
+131: https://services.swpc.noaa.gov/images/animations/suvi/primary/131/latest.png
+171: https://services.swpc.noaa.gov/images/animations/suvi/primary/171/latest.png
+195: https://services.swpc.noaa.gov/images/animations/suvi/primary/195/latest.png
+284: https://services.swpc.noaa.gov/images/animations/suvi/primary/284/latest.png
+304: https://services.swpc.noaa.gov/images/animations/suvi/primary/304/latest.png
+
+ACE RTSW
+https://services.swpc.noaa.gov/images/ace-epam-24-hour.gif
+https://services.swpc.noaa.gov/images/ace-epam-e-24-hour.gif
+https://services.swpc.noaa.gov/images/ace-epam-p-24-hour.gif
+https://services.swpc.noaa.gov/images/ace-mag-24-hour.gif
+https://services.swpc.noaa.gov/images/ace-mag-swepam-24-hour.gif
+https://services.swpc.noaa.gov/images/ace-sis-24-hour.gif
+https://services.swpc.noaa.gov/images/ace-swepam-24-hour.gif
+
+MAGNETOSPHERE
+https://services.swpc.noaa.gov/images/animations/geospace/velocity/latest.png
+https://services.swpc.noaa.gov/images/animations/geospace/density/latest.png
+https://services.swpc.noaa.gov/images/animations/geospace/pressure/latest.png
+
+SOLAR-TERRESTRIAL DATA
+https://www.hamqsl.com/solarsun.php
+https://www.hamqsl.com/solargraph.php
+https://www.hamqsl.com/marston.php
+https://www.hamqsl.com/solarsystem.php
+https://www.hamqsl.com/solar101vhf.php
+https://www.hamqsl.com/solar100sc.php
+https://www.hamqsl.com/solarpich.php
+
+GOES 19
+https://cdn.star.nesdis.noaa.gov/GOES19/GLM/SECTOR/ssa/EXTENT3/20251531126-20251531541-GOES19-GLM-SSA-EXTENT3-900x540.gif
+https://cdn.star.nesdis.noaa.gov/GOES19/ABI/SECTOR/ssa/DayNightCloudMicroCombo/20251530750-20251531540-GOES19-ABI-SSA-DayNightCloudMicroCombo-900x540.gif
+
+FORECAST CURTIIBA
+<iframe width="300" height="187" src="https://embed.windy.com/embed.html?type=forecast&location=coordinates&detail=true&detailLat=-25.4295963&detailLon=-49.2712724&metricTemp=°C&metricRain=mm&metricWind=km/h" frameborder="0"></iframe>
+
+RADAR
+https://embed.windy.com/embed.html?type=map&location=coordinates&metricRain=mm&metricTemp=%C2%B0C&metricWind=km/h&zoom=8&overlay=radar&product=radar&level=surface&lat=0&lon=-100
+
+WIND GUSTS
+"https://embed.windy.com/embed.html?type=map&location=coordinates&metricRain=mm&metricTemp=°C&metricWind=km/h&zoom=9&overlay=gust&product=ecmwf&level=surface&message=true"
+WEATHER RADAR
+"https://embed.windy.com/embed.html?type=map&location=coordinates&metricRain=mm&metricTemp=°C&metricWind=km/h&zoom=9&overlay=radar&product=radar&level=surface&message=true"
+WEATHER RADAR
+"https://embed.windy.com/embed.html?type=map&location=coordinates&metricRain=default&metricTemp=default&metricWind=default&zoom=5&overlay=radar&product=radar&level=surface"
+SAT
+"https://embed.windy.com/embed.html?type=map&location=coordinates&metricRain=mm&metricTemp=°C&metricWind=km/h&zoom=9&overlay=satellite&product=satellite&level=surface&message=true"
+ACCUMULATION
+"https://embed.windy.com/embed.html?type=map&location=coordinates&metricRain=default&metricTemp=default&metricWind=default&zoom=6&overlay=gustAccu&product=ecmwf&level=surface"
+SAT & WEATHER
+"https://embed.windy.com/embed.html?type=map&location=coordinates&metricRain=mm&metricTemp=°C&metricWind=km/h&zoom=8&overlay=satellite&product=satellite&level=surface&detail=true"
+LOW CLOUDS
+"https://embed.windy.com/embed.html?type=map&location=coordinates&metricRain=mm&metricTemp=°C&metricWind=km/h&zoom=9&overlay=lclouds&product=ecmwf&level=surface&message=true"
+UV
+"https://embed.windy.com/embed.html?type=map&location=coordinates&metricRain=mm&metricTemp=°C&metricWind=km/h&zoom=8&overlay=uvindex&product=cams&level=surface&marker=true&message=true"
+
+AIRPORT
+https://globe.adsbexchange.com/?airport=ABC
+
+SUN OTHER
+https://sdo.gsfc.nasa.gov/assets/img/latest/latest_512_0193.jpg
+https://sdo.gsfc.nasa.gov/assets/img/latest/latest_512_0304pfss.jpg
+https://sdo.gsfc.nasa.gov/assets/img/latest/latest_512_0211pfss.jpg
+https://sdo.gsfc.nasa.gov/assets/img/latest/latest_512_0171pfss.jpg
+https://sdo.gsfc.nasa.gov/assets/img/latest/latest_512_0131pfss.jpg
+https://sdo.gsfc.nasa.gov/assets/img/latest/latest_512_0335pfss.jpg
+https://sdo.gsfc.nasa.gov/assets/img/latest/latest_512_0094pfss.jpg
+https://sdo.gsfc.nasa.gov/assets/img/latest/latest_512_1600pfss.jpg
+https://sdo.gsfc.nasa.gov/assets/img/latest/latest_512_1700pfss.jpg
+https://sdo.gsfc.nasa.gov/assets/img/latest/f_211_193_171pfss_512.jpg
+https://sdo.gsfc.nasa.gov/assets/img/latest/latest_512_HMIBpfss.jpg
+https://sdo.gsfc.nasa.gov/assets/img/latest/latest_512_HMIIC.jpg
+https://sdo.gsfc.nasa.gov/assets/img/latest/latest_512_HMID.jpg
+https://umbra.nascom.nasa.gov/images/latest_hmi_mgram.gif
+https://umbra.nascom.nasa.gov/images/latest_hmi_igram.gif
+https://umbra.nascom.nasa.gov/images/latest_aia_304.gif
