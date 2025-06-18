@@ -1,5 +1,3 @@
-# Ham dashboards
-
 <br>
 
 [<kbd> <br> Dashboard v1 (Fast PCs) <br> </kbd>][Link1]
