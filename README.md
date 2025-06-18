@@ -4,7 +4,7 @@
 
 <br>
 
-[<kbd> <br> Dashboard v2 (Medium PCs PCs) <br> </kbd>][Link2]
+[<kbd> <br> Dashboard v2 (Medium PCs) <br> </kbd>][Link2]
 
 <br>
 
