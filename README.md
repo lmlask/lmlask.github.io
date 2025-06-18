@@ -23,8 +23,8 @@
 
 <!---------------------------------------------------------------------------->
 
-[Link1]: https://lmlask.github.io/v1/hamdash.html
-[Link2]: https://lmlask.github.io/v2/hamdash.html
-[Link3]: https://lmlask.github.io/v3/hamdash.html
-[Link4]: https://lmlask.github.io/v4/hamdash.html
-[Link5]: https://lmlask.github.io/v5/hamdash.html
+[Link1]: https://lmlask.github.io/hamdashboard/v1/hamdash.html
+[Link2]: https://lmlask.github.io/hamdashboard/v2/hamdash.html
+[Link3]: https://lmlask.github.io/hamdashboard/v3/hamdash.html
+[Link4]: https://lmlask.github.io/hamdashboard/v4/hamdash.html
+[Link5]: https://lmlask.github.io/hamdashboard/v5/hamdash.html
