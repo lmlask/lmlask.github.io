@@ -3,9 +3,13 @@ Ham Dashboards
 <br>
 
 [<kbd> <br> Dashboard v1 (Fast PCs) <br> </kbd>][Link1]
+<br>
 [<kbd> <br> Dashboard v2 (Medium PCs PCs) <br> </kbd>][Link2]
+<br>
 [<kbd> <br> Dashboard v3 (Slow PCs) <br> </kbd>][Link3]
+<br>
 [<kbd> <br> Dashboard v4 (Very slow PCs) <br> </kbd>][Link4]
+<br>
 [<kbd> <br> Dashboard v5 (Servers/RPi PCs) <br> </kbd>][Link5]
 
 <br>
